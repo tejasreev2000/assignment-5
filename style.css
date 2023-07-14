@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(111, 195, 221);
+    font-family: "Source Sans Pro", "Arial", sans-serif;
+}
+
+.first {
+    font-size: 25px;
+    color: rgb(8, 15, 11);
+    text-align: center;
+}
+
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+
+
+
+}
+
+.container {
+    width: 300px;
+    background-color: rgb(240, 241, 232);
+    border-radius: 10px;
+    margin: 5px;
+    border: 1px solid rgb(234, 236, 224);
+}
+
+.img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 180px;
+    object-fit: cover;
+
+}
+
+.line1 {
+    color: rgb(65, 92, 110);
+    margin-top: 10px;
+}
+
+p {
+    font-size: 12px;
+    margin: 0 auto;
+    font-style: italic;
+    margin-left: 10px;
+    margin-top: -15px;
+}
+
+h1 {
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 10px;
+
+}
+
+h2 {
+    font-size: 18px;
+    font-style: italic;
+    margin-left: 10px;
+
+}
+
+.container2 {
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    display: flex;
+
+
+}
+
+.girl {}
+
+.bottom {
+    margin-top: -5px;
+}
+
+.img2 {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-left: 10px;
+    border-radius: 50%;
+
+}
+
+.bottom h1 {
+    font-size: 15px;
+}
